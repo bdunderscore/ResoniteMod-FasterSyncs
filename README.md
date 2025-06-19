@@ -1,6 +1,6 @@
 # FasterSyncs
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod that modifies the way that Resonite syncs assets and records to the cloud.
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod that modifies the way that Resonite syncs assets and records to the cloud. it addresses Yellow-Dog-Man/Resonite-Issues/#3994.
 By checking for the status of pre-existing meshes in parallel, this can greatly speed up saving worlds with large
 numbers of assets, particularly when you are located somewhere with a high-latency connection to the Resonite API servers.
 
