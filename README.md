@@ -7,8 +7,7 @@ numbers of assets, particularly when you are located somewhere with a high-laten
 ## Installation
 
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
-2. ~~Place [FasterSyncs.dll](https://github.com/bdunderscore/ResoniteMod-FasterSyncs/releases/latest/download/FasterSyncs.dll) into your `rml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\Resonite\rml_mods` for a default install. You can create it if it's missing, or if you launch the game once with ResoniteModLoader installed it will create the folder for you.~~
-3. Build the mod from source, and install it into your `rml_mods` folder. (I'm currently waiting for feedback from YDMS on the throttles before making pre-built binaries available.)
+2. Place [FasterSyncs.dll](https://github.com/bdunderscore/ResoniteMod-FasterSyncs/releases/latest/download/FasterSyncs.dll) into your `rml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\Resonite\rml_mods` for a default install. You can create it if it's missing, or if you launch the game once with ResoniteModLoader installed it will create the folder for you.
 
 ## Credits
 
